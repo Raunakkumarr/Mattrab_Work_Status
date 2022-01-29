@@ -1,0 +1,110 @@
+Class,Subject,Role,Name,Community,Assigned Chapter,What to do?,Deadline,Status
+12,Physics,Admin,Bikash Thapa Magar,SXC,Rotational Dynamics,Create Questions,"4th Feb, 2022",Assignment Released
+12,Physics,Admin,Grishma Gautam,SXG,Periodic Motion,Create Questions,"4th Feb, 2022",Assignment Released
+12,Physics,Admin,Kritika khadka,SXG,Fluid Statics,Create Questions,"4th Feb, 2022",Assignment Released
+12,Physics,Admin,Shrajesh Thapa,Global,"""First Law of Thermodynamics"" and ""Second Law of Thermodynamics""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Physics,Creator,Pritesh Thakur,SXC,Rotational Dynamics,Create answers of the questions created by Bikash Thapa Magar,"4th Feb, 2022",Assignment Released
+12,Physics,Creator,Sujal Shah,SXC,Periodic Motion,Create answers of the questions created by Grishma Gautam,"4th Feb, 2022",Assignment Released
+12,Physics,Creator,Saina Karki,NPS,Fluid Statics,Create answers of the questions created by Kritika khadka,"4th Feb, 2022",Assignment Released
+12,Physics,Creator,Manas Acharya,SXG,First Law of Thermodynamics,Create answers of the questions created by Shrajesh Thapa,"4th Feb, 2022",Assignment Released
+12,Physics,Creator,Neha Singh ,NPS,Second Law of Thermodynamics,Create answers of the questions created by Shrajesh Thapa,"4th Feb, 2022",Assignment Released
+12,Chemistry,Admin,Sanjiv Kumar Jaiswal,Global,"""Volumetric Analysis"" and ""Ionic Equilibrium""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Chemistry,Admin,Dikshya Poudel,SXG,"""Chemical Kinetics"" and ""Thermodynamics""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Chemistry,Admin,Nandani Kumari,SXC,"""Electrochemistry"" and ""Transition Metals""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Chemistry,Creator,Salisha Timalsina,SXG,Volumetric Analysis,Create answers of the questions created by Sanjiv Kumar Jaiswal,"4th Feb, 2022",Assignment Released
+12,Chemistry,Creator,Shyam nandan prasad thakur,NPS,Ionic Equilibrium,Create answers of the questions created by Sanjiv Kumar Jaiswal,"4th Feb, 2022",Assignment Released
+12,Chemistry,Creator,Jayant Bist,Global,Chemical Kinetics,Create answers of the questions created by Dikshya Poudel,"4th Feb, 2022",Assignment Released
+12,Chemistry,Creator,Indrajit Yadav,Global,Thermodynamics,Create answers of the questions created by Dikshya Poudel,"4th Feb, 2022",Assignment Released
+12,Chemistry,Creator,Krish Gurung,SXC,Electrochemistry,Create answers of the questions created by Nandani Kumari,"4th Feb, 2022",Assignment Released
+12,Chemistry,Creator,Sonam Bhandari,SXC,Transition Metals,Create answers of the questions created by Nandani Kumari,"4th Feb, 2022",Assignment Released
+12,Biology,Admin,Dikshya Pandit,SXC,"""Plant Anatomy"" and ""Water Relation""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Biology,Admin,Tarannum Thakurai,SXC,"""Photosynthesis"" and ""Respiration""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Biology,Admin,Ishika Yadav,NPS,Plant Hormones,Create Questions,"4th Feb, 2022",Assignment Released
+12,Biology,Creator,Yugal Thapa,NPS,Plant Anatomy,Create answers of the questions created by Dikshya Pandit,"4th Feb, 2022",Assignment Released
+12,Biology,Creator,Bhrikuti Kumari Panthi,SXC,Water Relation,Create answers of the questions created by Dikshya Pandit,"4th Feb, 2022",Assignment Released
+12,Biology,Creator,Anish Dahal,SXC,Photosynthesis,Create answers of the questions created by Tarannum Thakurai,"4th Feb, 2022",Assignment Released
+12,Biology,Creator,Aman Yadav,SXC,Respiration,Create answers of the questions created by Tarannum Thakurai,"4th Feb, 2022",Assignment Released
+12,Biology,Creator,Sandeep Kumar kushwaha,SXC,Plant Hormones,Create answers of the questions created by Ishika Yadav,"4th Feb, 2022",Assignment Released
+12,Maths,Admin,Bivasha Pokhrel,SXG,"""Permutation and Combination"" and ""Binomial Therom""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Maths,Admin,Swarn Chaudhary,NPS,"""Elementary Group Theory"" and ""Complex Number""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Maths,Admin,Kritika Joshi,SXC,Quadratic Equations,Create Questions,"4th Feb, 2022",Assignment Released
+12,Maths,Creator,Raxit Giri,SXG,Permutation and Combination,Create answers of the questions created by Bivasha Pokhrel,"4th Feb, 2022",Assignment Released
+12,Maths,Creator,Sagar Chaulagain,NPS,Binomial Therom,Create answers of the questions created by Bivasha Pokhrel,"4th Feb, 2022",Assignment Released
+12,Maths,Creator,Suyog Neupane,Global,Elementary Group Theory,Create answers of the questions created by Swarn Chaudhary,"4th Feb, 2022",Assignment Released
+12,Maths,Creator,Love Gami,Global,Complex Number,Create answers of the questions created by Swarn Chaudhary,"4th Feb, 2022",Assignment Released
+12,Maths,Creator,Sachin Shrestha,SXC,Quadratic Equations,Create answers of the questions created by Kritika Joshi,"4th Feb, 2022",Assignment Released
+12,Computer,Admin,Bikesh Sunar,SXC,Fundamentals of Computer,Create Questions,"4th Feb, 2022",Assignment Released
+12,Computer,Admin,Romi Adhikari,SXC,"""Components of Computer System"" and ""Principles of Programming & Problem Solving""",Create Questions,"4th Feb, 2022",Assignment Released
+12,Computer,Creator,Bikash sahani,NPS,Fundamentals of Computer,Create answers of the questions created by Bikesh Sunar,"4th Feb, 2022",Assignment Released
+12,Computer,Creator,Divas Poudel,SXC,Components of Computer System,Create answers of the questions created by Romi Adhikari,"4th Feb, 2022",Assignment Released
+12,Computer,Creator,Prajit Thapa,SXC,Principles of Programming & Problem Solving,Create answers of the questions created by Romi Adhikari,"4th Feb, 2022",Assignment Released
+12,English,Admin,Bijaya Rajbhandari,SXG,"""Critical Thinking"" and ""Family"" and ""Sports"" and ""Technology""",Create Questions,"4th Feb, 2022",Assignment Released
+12,English,Admin,Gaurav Raj Mishra,SXC,"""Education"" and ""Money and Economy"" and ""Humour""",Create Questions,"4th Feb, 2022",Assignment Released
+12,English,Creator,Nirajan Upreti ,NPS,Critical Thinking,Create answers of the questions created by Bijaya Rajbhandari,"4th Feb, 2022",Assignment Released
+12,English,Creator,Himansi Shrestha,SXC,Family,Create answers of the questions created by Bijaya Rajbhandari,"4th Feb, 2022",Assignment Released
+12,English,Creator,Puja Rai,SXC,Sports,Create answers of the questions created by Bijaya Rajbhandari,"4th Feb, 2022",Assignment Released
+12,English,Creator,Chhimee Wangmo Lama,SXC,Technology,Create answers of the questions created by Bijaya Rajbhandari,"4th Feb, 2022",Assignment Released
+12,English,Creator,Rubisha Shrestha,SXC,Education,Create answers of the questions created by Gaurav Raj Mishra,"4th Feb, 2022",Assignment Released
+12,English,Creator,Rubha yadav,SXC,Money and Economy,Create answers of the questions created by Gaurav Raj Mishra,"4th Feb, 2022",Assignment Released
+12,English,Creator,Prejina Dwa,SXC,Humour,Create answers of the questions created by Gaurav Raj Mishra,"4th Feb, 2022",Assignment Released
+12,Nepali,Admin,Neha Thapa,SXC,आमाको सपना,Create Questions,"4th Feb, 2022",Assignment Released
+12,Nepali,Admin,Sanskriti Shrestha,SXC,विरहिणी दमयन्ती,Create Questions,"4th Feb, 2022",Assignment Released
+12,Nepali,Creator,Kushal Dhaubhadel,SXC,आमाको सपना,Create answers of the questions created by Neha Thapa,"4th Feb, 2022",Assignment Released
+12,Nepali,Creator,Aayush Anand,SXC,विरहिणी दमयन्ती,Create answers of the questions created by Sanskriti Shrestha,"4th Feb, 2022",Assignment Released
+12,Economics,Admin,Reeju Ghimire,SXG,Basic Concept of Economics and Allocation of Resources,Create both questions and answers,"4th Feb, 2022",Assignment Released
+11,Physics,Admin,Diwas Pandit,SXC,Physical Quantities and Vectors,Create Questions,"4th Feb, 2022",Assignment Released
+11,Physics,Admin,Sandip Khadka,SXC,Kinematics and Dynamics,Create Questions,"4th Feb, 2022",Assignment Released
+11,Physics,Creator,Rakesh Yadav,Global,Physical Quantities,Create answers of the questions created by Diwas Pandit,"4th Feb, 2022",Assignment Released
+11,Physics,Creator,Sushmita Shrestha,NPS,Vectors,Create answers of the questions created by Diwas Pandit,"4th Feb, 2022",Assignment Released
+11,Physics,Creator,Sandesh dhakal,SXC,Kinematics,Create answers of the questions created by Sandip Khadka,"4th Feb, 2022",Assignment Released
+11,Physics,Creator,Sayana Shakya,SXG,Dynamics,Create answers of the questions created by Sandip Khadka,"4th Feb, 2022",Assignment Released
+11,Chemistry,Admin,PUSPAK KUMAR SAH,Global,"""Foundation and Fundamentals of Chemistry"" and ""Stoichiometry""",Create Questions,"4th Feb, 2022",Assignment Released
+11,Chemistry,Admin,Niharika Rana,SXG,"""Atomic Structure"" and ""Classification of Elements and Periodic Table""",Create Questions,"4th Feb, 2022",Assignment Released
+11,Chemistry,Creator,Nisha Bhujel,NPS,Foundation and Fundamentals of Chemistry,Create answers of the questions created by PUSPAK KUMAR SAH,"4th Feb, 2022",Assignment Released
+11,Chemistry,Creator,Lokesh Das,SXC,Stoichiometry,Create answers of the questions created by PUSPAK KUMAR SAH,"4th Feb, 2022",Assignment Released
+11,Chemistry,Creator,Jessica Yadav,SXC,Atomic Structure,Create answers of the questions created by Niharika Rana,"4th Feb, 2022",Assignment Released
+11,Chemistry,Creator,Anuska Bashyal,SXC,Classification of Elements and Periodic Table,Create answers of the questions created by Niharika Rana,"4th Feb, 2022",Assignment Released
+11,Biology,Admin,Nirak Adhikari,SXC,Biomolecules,Create Questions,"4th Feb, 2022",Assignment Released
+11,Biology,Admin,Anusha Shrestha,SXC,Cell Biology,Create Questions,"4th Feb, 2022",Assignment Released
+11,Biology,Admin,Shibu Oli,SXG,Cell Division and Introduction to Floral Diversity,Create Questions,"4th Feb, 2022",Assignment Released
+11,Biology,Creator,Ashri Dahal,SXC,Biomolecules,Create answers of the questions created by Nirak Adhikari,"4th Feb, 2022",Assignment Released
+11,Biology,Creator,Shruti Poudel,SXC,Cell Biology,Create answers of the questions created by Anusha Shrestha,"4th Feb, 2022",Assignment Released
+11,Biology,Creator,Manish Pandey,SXC,Cell Division,Create answers of the questions created by Shibu Oli,"4th Feb, 2022",Assignment Released
+11,Biology,Creator,Lina Maharjan,SXC,Introduction to Floral Diversity,Create answers of the questions created by Shibu Oli,"4th Feb, 2022",Assignment Released
+11,Maths,Admin,Surakshya,Global,"Set, Real number system and logic",Create Questions,"4th Feb, 2022",Assignment Released
+11,Maths,Admin,Basant Poudel,NPS,"""Relations, Functions and Graph"" and ""Curve Sketching""",Create Questions,"4th Feb, 2022",Assignment Released
+11,Maths,Creator,Srijana Niroula,SXG,"Set, Real number system and logic",Create answers of the questions created by Surakshya,"4th Feb, 2022",Assignment Released
+11,Maths,Creator,SAMIR PARAJULI,SXC,"Relations, Functions and Graph",Create answers of the questions created by Basant Poudel,"4th Feb, 2022",Assignment Released
+11,Maths,Creator,Pramisha Adhikari,SXC,Curve Sketching,Create answers of the questions created by Basant Poudel,"4th Feb, 2022",Assignment Released
+11,Computer,Admin,Bishes Maharjan,SXG,"""Computer System"" and ""Number System and Conversion Boolean Logic"" and ""Computer Software and Operating System""",Create Questions,"4th Feb, 2022",Assignment Released
+11,Computer,Admin,Nikas Ghimire,Global,"""Application Package"" and ""Programming Concepts and Logics""",Create Questions,"4th Feb, 2022",Assignment Released
+11,Computer,Creator,Abinistha Maharjan,SXG,Computer System,Create answers of the questions created by Bishes Maharjan,"4th Feb, 2022",Assignment Released
+11,Computer,Creator,Umidh KC,SXG,Number System and Conversion Boolean Logic,Create answers of the questions created by Bishes Maharjan,"4th Feb, 2022",Assignment Released
+11,Computer,Creator,Simran Baral,SXG,Computer Software and Operating System,Create answers of the questions created by Bishes Maharjan,"4th Feb, 2022",Assignment Released
+11,Computer,Creator,Aaryaa Khatiwada,SXG,Application Package,Create answers of the questions created by Nikas Ghimire,"4th Feb, 2022",Assignment Released
+11,Computer,Creator,Samyak Maharjan,SXC,Programming Concepts and Logics,Create answers of the questions created by Nikas Ghimire,"4th Feb, 2022",Assignment Released
+11,English,Admin,Uraashna Manandhar,SXG,The Selfish Giant and The Oval Portrait,Create Questions,"4th Feb, 2022",Assignment Released
+11,English,Admin,Deepa Marasini,Global,"""God Sees the Truth but Waits"" and ""The Wish""",Create Questions,"4th Feb, 2022",Assignment Released
+11,English,Creator,Sneha Giri,SXG,The Selfish Giant,Create answers of the questions created by Uraashna Manandhar,"4th Feb, 2022",Assignment Released
+11,English,Creator,Sneha Thapa,SXG,The Oval Portrait,Create answers of the questions created by Uraashna Manandhar,"4th Feb, 2022",Assignment Released
+11,English,Creator,Season Rana,SXG,God Sees the Truth but Waits,Create answers of the questions created by Deepa Marasini,"4th Feb, 2022",Assignment Released
+11,English,Creator,Shreya Acharya,SXC,The Wish,Create answers of the questions created by Deepa Marasini,"4th Feb, 2022",Assignment Released
+11,Nepali,Admin,Anuska Acharya,SXC,वीर पुर्खा,Create Questions,"4th Feb, 2022",Assignment Released
+11,Nepali,Admin,Oshin Gautam,SXC,गाउँको माया and सस्कृतिको नयाँ यात्रा,Create Questions,"4th Feb, 2022",Assignment Released
+11,Nepali,Creator,Ankit Bhandari,NPS,वीर पुर्खा,Create answers of the questions created by Anuska Acharya,"4th Feb, 2022",Assignment Released
+11,Nepali,Creator,Ankita Bhattarai,SXC,गाउँको माया,Create answers of the questions created by  Oshin Gautam,"4th Feb, 2022",Assignment Released
+11,Nepali,Creator,Shreesha Shrestha,SXC,सस्कृतिको नयाँ यात्रा,Create answers of the questions created by  Oshin Gautam,"4th Feb, 2022",Assignment Released
+11,Economics,Creator,Bikash Sapkota,SXG,Basic Concept of Economics and Allocation of Resources,Create both questions and answers,"4th Feb, 2022",Assignment Released
+11,Social,Admin,Bhawana Kumari Yadav,SXC,"सामाजिक अध्ययन तथा जीवनोपयोगी शिक्षा and सामाजिक अध्ययन, सामाजिक शिक्षा र सामाजिक विज्ञानको अन्तरसम्बन्ध and सामाजिक अध्ययनका सिप र जीवनोपयोगी सिपको अवधारणा and डिजिटल साक्षरता",Create Questions,"4th Feb, 2022",Assignment Released
+11,Social,Creator,Gaurab Giri,SXC,सामाजिक अध्ययन तथा जीवनोपयोगी शिक्षा,Create answers of the questions created by Bhawana Kumari Yadav,"4th Feb, 2022",Assignment Released
+11,Social,Creator,SHREYASA SHRESTHA,SXC,"सामाजिक अध्ययन, सामाजिक शिक्षा र सामाजिक विज्ञानको अन्तरसम्बन्ध",Create answers of the questions created by Bhawana Kumari Yadav,"4th Feb, 2022",Assignment Released
+11,Social,Creator,Suhani Bansal,SXC,सामाजिक अध्ययनका सिप र जीवनोपयोगी सिपको अवधारणा,Create answers of the questions created by Bhawana Kumari Yadav,"4th Feb, 2022",Assignment Released
+11,Social,Creator,Reema Kasula,SXC,डिजिटल साक्षरता,Create answers of the questions created by Bhawana Kumari Yadav,"4th Feb, 2022",Assignment Released
+10,Science,Creator,Pankaj Kumar Ram,Global,Force,Create Questions,"4th Feb, 2022",Assignment Released
+10,Math,Creator,Sujan Yadav,Global,Set,Create Questions,"4th Feb, 2022",Assignment Released
+10,Computer,Admin,Arun,Global,Networking and Telecommunication,Create Questions,"4th Feb, 2022",Assignment Released
+9,Science,Admin,Aayushka karki,SXG,Measurement,Create Questions,"4th Feb, 2022",Assignment Released
+9,Science,Creator,Ganesh Bhandari,NPS,Measurement,Create answers of the questions created by Aayushka karki,"4th Feb, 2022",Assignment Released
+9,Social,Admin,Shikha Bhattarai,SXG,Development of Society,Create Questions,"4th Feb, 2022",Assignment Released
+9,Social,Creator,Yugant Neupane,NPS,Development of Society,Create answers of the questions created by Shikha Bhattarai,"4th Feb, 2022",Assignment Released
+9,Computer,Creator,Prabin Kalikote,Global,Introduction to Computer,Create Questions,"4th Feb, 2022",Assignment Released
